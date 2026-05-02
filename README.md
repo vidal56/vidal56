@@ -42,7 +42,7 @@ Atualmente explorando:
 Implementação de um pipeline **RAG (Retrieval-Augmented Generation)** com o modelo GAIA 4B e infraestrutura **GCP**, desenvolvido no contexto do Grupo de NLP da UFG para o Desafio ANEEL.
 
 ### 🤖 [my_bot](https://github.com/vidal56/my_bot)
-Bot desenvolvido em **Python** — automação inteligente com foco em aprendizado prático de IA conversacional.
+Bot desenvolvido em **Python** — para o grupo de visão computacional - robotica para simular lidar usando ros e gazebo.
 
 ---
 
